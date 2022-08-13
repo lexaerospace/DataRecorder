@@ -1,4 +1,5 @@
 //libraries for DHT sensor and BMP sensor
+//to add go to libraries in the arduino ide and search and add the following libraries
 #include "DHT.h"
 #include <Adafruit_Sensor.h> 
 #include "Adafruit_BMP3XX.h"
